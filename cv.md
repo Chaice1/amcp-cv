@@ -1,4 +1,4 @@
-file:///C:/Users/Shmidt/Downloads/Telegram%20Desktop/IMG_20240922_161438.jpg
+!(file:///C:/Users/Shmidt/Downloads/Telegram%20Desktop/IMG_20240922_161438.jpg)
 
 
 
