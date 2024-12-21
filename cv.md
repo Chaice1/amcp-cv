@@ -1,9 +1,4 @@
 !(file:///C:/Users/Shmidt/Downloads/Telegram%20Desktop/IMG_20240922_161438.jpg)
-
-
-
-
-
 #Шмидт Кирилл,17 лет
 #Я уже 4 года занимаюсь программированием, уже два года практикуюсь программировать на языках C++, Python.
 #Контакты: 
@@ -17,3 +12,7 @@
 
 #Литкод: 
 https://leetcode.com/u/Chaice/
+
+
+Проекты:
+https://github.com/amcp-pit/op24-task8-hexview-Chaice1
